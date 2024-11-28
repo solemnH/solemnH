@@ -1,2 +1,2 @@
 ./Iq_test                                              
--results = room temperature
+-room_temperature
